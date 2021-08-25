@@ -74,5 +74,15 @@ There are 3 roles:
 - Managers: can edit but not add new employees.
 - Normal: nothing?
 
+### Making a listing
+- Image max height 500px
+- First uploaded image will be "top image"
+- Always add Region (Organisation) & Country 
+
+### Adding new materials, processes, machines, product tags
+- https://make.works/materials/new
+- Add "new" in URL to each to add new tag
 
 To become a 'champion' an admin needs to make you one, via the https://new.make.works/admin/user_regions interface.
+
+
