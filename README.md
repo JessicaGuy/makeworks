@@ -78,6 +78,7 @@ There are 3 roles:
 - Image max height 500px
 - First uploaded image will be "top image"
 - Always add Region (Organisation) & Country 
+- To manually change listings tags for not live listings delete /admin/ out of dashboard URL
 
 ### Adding new materials, processes, machines, product tags
 - https://make.works/materials/new
